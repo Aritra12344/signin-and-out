@@ -1,11 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyAKmCyRu3j_0SsEfKw_BmD8Z7HGyTPI8ZE",
+    authDomain: "aritra-ml.firebaseapp.com",
+    databaseURL: "https://aritra-ml-default-rtdb.firebaseio.com",
+    projectId: "aritra-ml",
+    storageBucket: "aritra-ml.appspot.com",
+    messagingSenderId: "228570434663",
+    appId: "1:228570434663:web:130c10fcd9ed513573d8c2",
+    measurementId: "G-250SNRPZ1W"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
